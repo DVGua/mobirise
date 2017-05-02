@@ -50,6 +50,12 @@ h6,
 .mbr-footer .mbr-contacts strong {
   font-family: 'Oswald', sans-serif;
 }
+.btn {
+  border-radius: 1.6em;
+}
+.mbr-subscribe .btn {
+  border-radius: 1.6em !important;
+}
 .btn-sm,
 .lead a,
 .lead blockquote,
@@ -408,7 +414,4 @@ h6,
 .mbr-small-footer a,
 .mbr-gallery-filter li:hover {
   color: #7c706b;
-}
-.scrollToTop_wraper {
-  opacity: 0 !important;
 }
